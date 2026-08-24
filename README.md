@@ -10,5 +10,4 @@ Every push to `main` triggers the **Deploy to GitHub Pages** workflow ([.github/
 
 ## Notes
 
-- The hero illustration is drawn in pure CSS (the sprout mascot from the original design). To use a photo/illustration instead, add the image to `uploads/` and swap the hero scene in `index.html` for an `<img>`.
-- Photos in `uploads/` come from the design project's image slots.
+- Images in `uploads/` come from the design project's image slots.
